@@ -52,6 +52,13 @@ img {
     height: 10rem;
 }
 
+img:hover {
+    content: url('https://cdn.esportinfo.gg/fallguy/img/skins/Undies.png');
+    margin-top: 2rem;
+    width: 10rem;
+    height: 10rem;
+}
+
 p {
     font-size: 1.5rem;
     text-align: center;
